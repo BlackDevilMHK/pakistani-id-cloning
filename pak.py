@@ -69,7 +69,7 @@ def jalan(z):
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;93mBlackDevilMHKâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\x1b[1;93mBlackDevilMHKââ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
