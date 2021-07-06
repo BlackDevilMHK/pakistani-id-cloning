@@ -69,7 +69,7 @@ def jalan(z):
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;93mRasheDHossainâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\x1b[1;93mBlackDevilMHKâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -101,7 +101,7 @@ _______________🌹🌸💜💙
 💜💜💜💜💜💜💜💜💜💜💜💙
 💙💙💙💙💙💙💙💙💙💙💙💙💙
  
- \033[1;96m          WHATSAPP NO +27618543540
+ \033[1;96m          Facebook: facebook.com/BlackDevilMHK
 """
 
 ####Logo####
@@ -152,8 +152,8 @@ logo2 = """
 \033[1;93m           '._        '`'`'   \       <
 \033[1;92m              >   ,'       ,   `-.   <`'
 """
-Username = "Hossain404"
-CorrectPasscode = "Rashed"
+Username = "BlackDevilMHK"
+CorrectPasscode = "MHK"
 
 loop = 'true'
 while (loop == 'true'):
@@ -165,7 +165,7 @@ while (loop == 'true'):
             loop = 'false'
     else:
             print "\033[1;91mâ˜ ï¸WRONG"
-            os.system('xdg-open https://www.facebook.com/Wwwwwwwwwwww.Mizan.Vau8080/')
+            os.system('xdg-open https://www.facebook.com/BlackDevilMHK/')
 
 ##### LICENSE #####
 #=================#
@@ -191,7 +191,7 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1] RasheD Start Cracking'
+    print '\x1b[1;91m[1] MHK Start Cracking'
     time.sleep(0.05)
     print '\x1b[1;92m[0] \033[1;93m Back'
     time.sleep(0.05)
