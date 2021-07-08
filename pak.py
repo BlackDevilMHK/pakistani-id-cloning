@@ -225,7 +225,7 @@ def action():
     xxx = str(len(id))
     jalan ('\033[1;91m Total ids number: '+xxx)
     jalan ('\033[1;93mCode you choose: '+c)
-    jalan ("\033[1;95mRasheDâ total 5 password will clone ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â 11 digit , last 7 digit, pakistan, 000786, 786786 password Start Cracking...")
+    jalan ("\033[1;95mMHK total 5 password will clone ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â 11 digit , last 7 digit, pakistan, 000786, 786786 password Start Cracking...")
     jalan ("\033[1;96mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;92m-'
     def main(arg):
